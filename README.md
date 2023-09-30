@@ -2,6 +2,6 @@
 
 A Magisk module for RedMagic8 ChargeSeparation, controlled by GameKey.
 
-## Feature
+## Usage
 - up to enable ChargeSeparation.
 - down to disable ChargeSeparation.
